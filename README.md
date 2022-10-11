@@ -1,6 +1,6 @@
 ## Pure CSS Perpetual Animation Effects | Bouncing Ball Animation Effects
 
-Amazing HTML & CSS only animation with perpetualand bouncing effect.
+Amazing HTML & CSS only animation with perpetual and bouncing effect.
 Another nice animation isn't?  
 I practiced here rotation and translation transformation animations, I played with borders, calculations and other cool CSS properties.
 
